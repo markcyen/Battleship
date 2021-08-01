@@ -1,3 +1,4 @@
+
 # Classic Battleship Game
 
 ...played in the terminal by a Player against the Computer
@@ -12,4 +13,6 @@
 
   Simply clone this repo and cd (change directory) into the Battleship folder from the CLI and run `ruby runner.rb`. Follow the prompts and you are ready to play Battleship! 
 
+### Example of what your terminal looks like
 
+![battleship_in_terminal](https://user-images.githubusercontent.com/77414433/127757630-0a43376e-bb52-4b1e-ab26-e79dd51bd3cf.jpg)
